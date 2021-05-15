@@ -1,0 +1,2 @@
+# Funny-Python-Projects
+This is a introduction lesson about Funny Python series. This series is for those who have some basic knowledge about Python or even for those who do not have any knowledge on Python. We will directly start building Python projects instead of going through loops, functions, lists, tuples etc etc. We will build several funny and useful Python applications on a real time, however in order to do that we need bunch of Python libraries to be installed.
